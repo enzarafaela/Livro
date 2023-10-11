@@ -6,3 +6,7 @@ Fulano estava cansado de apenas ouvir os colegas de trabalho falarem sobre JavaS
 CAPITULO 2
 
 Na primeira semana, Fulano se familiarizou com as bases: variáveis, tipos de dados, funções. Era similar a outras linguagens que ele já conhecia, mas havia nuances e particularidades que o intrigavam. Os "callbacks", a natureza assíncrona da linguagem e o famoso "this" pareciam desafios intrigantes. Fulano estava determinado a entender esses conceitos de uma vez por todas
+
+
+CAPITULO 3
+Joi está escrevendo o capitulo 3....
