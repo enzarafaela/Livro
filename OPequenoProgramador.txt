@@ -1,3 +1,7 @@
 CAPITULO 1
 
 Fulano estava cansado de apenas ouvir os colegas de trabalho falarem sobre JavaScript. Como um programador de backend especializado em Python, ele tinha pouco contato com o mundo do front-end e as linguagens associadas a ele. Porém, os projetos recentes da empresa exigiam uma compreensão mais profunda das tecnologias web, e Fulano decidiu que era hora de mergulhar no mundo do JavaScript.
+
+CAPITULO 2
+
+Na primeira semana, Fulano se familiarizou com as bases: variáveis, tipos de dados, funções. Era similar a outras linguagens que ele já conhecia, mas havia nuances e particularidades que o intrigavam. Os "callbacks", a natureza assíncrona da linguagem e o famoso "this" pareciam desafios intrigantes. Fulano estava determinado a entender esses conceitos de uma vez por todas.
